@@ -2,7 +2,7 @@
 - 👀 I’m interested in Systems Automation
 - 🌱 I’m currently learning Project Management
 - 💞️ I’m looking to collaborate on Highly Available Distributed Systems
-- 📫 How to reach me ...
+- 📫 How to reach me Email: rotichmanuela@gmail.com
 
 <!---
 manurotich/manurotich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
